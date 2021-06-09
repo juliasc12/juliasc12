@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá mundo!
 
-<!--
-**juliasc12/juliasc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou a Júlia, tenho 23 anos e sou apaixonada em tecnologia! 🥰  
 
-Here are some ideas to get you started:
+Estou quase formando em Ciência da Computação pelo IFSEMG, faltando apenas o TCC que está sendo desenvolvido (você pode conferir mais no repositório "cnn-libras").
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Sou uma pessoa focada, determinada, ágil e muito estudiosa. 
+
+
+
+## Aptidões  👩‍💻📚
+- Sólido conhecimento em Java, Javascript, HTML, CSS, PHP.
+- Conhecimentos em Python, Machine Learning, C#, React e React-Native.
+- Desenvolvimento com banco de dados MySQL e Firebird.
+- Conhecimento em técnicas e frameworks como Bootstrap, Ajax e Spring.
