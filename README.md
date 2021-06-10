@@ -2,7 +2,7 @@
 
 Sou a Júlia, tenho 23 anos e sou apaixonada em tecnologia! 🥰  
 
-Estou quase formando em Ciência da Computação pelo IFSEMG, faltando apenas o TCC que está sendo desenvolvido (você pode conferir mais no repositório "cnn-libras").
+Atualmente me encaixo como Desenvolvedora Full-Stack Júnior, com maior foco em back-end. Estou quase formando em Ciência da Computação pelo IFSEMG, faltando apenas o TCC que está sendo desenvolvido (você pode conferir mais no repositório "cnn-libras").
 
 #### Sou uma pessoa focada, determinada, ágil e muito estudiosa. 
 
