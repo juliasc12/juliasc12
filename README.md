@@ -8,8 +8,12 @@ Atualmente me encaixo como Desenvolvedora Full-Stack Júnior, com maior foco em 
 
 
 
-## Aptidões  👩‍💻📚
+## Aptidões  👩‍💻
 - Sólido conhecimento em Java, Javascript, HTML, CSS, PHP.
-- Conhecimentos em Python, Machine Learning, C#, React e React-Native.
+- Conhecimentos em Python, Machine Learning, C#.
 - Desenvolvimento com banco de dados MySQL e Firebird.
 - Conhecimento em técnicas e frameworks como Bootstrap, Ajax e Spring.
+
+
+## Aprendendo 📚
+- React, React-Native e Angular.
