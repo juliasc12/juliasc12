@@ -10,4 +10,4 @@ Atualmente trabalho como Dev Fullstack Júnior na Linx e sou formada em Ciência
 - Conhecimento em técnicas e frameworks como Bootstrap, Ajax e Spring.
 
 ## Aprendendo 📚
-- React, Typescript e Angular.
+- React e Typescript.
