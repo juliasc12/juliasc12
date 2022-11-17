@@ -25,7 +25,8 @@
 - Knowledge in data science with Python, artificial intelligence and computer vision
 - Knowledge in non-relational database (MongoDB) and Experience in relational database (MySql, FaunaDB)
 - Knowledge in RESTful and GraphQL API
-- Experience in Javascript, PHP, React and Typescript
+- Experience in Javascript, React and Typescript
+- Experience in PHP, Node e Nextjs
 - Experience in Angular and Laravel frameworks
 
 #
