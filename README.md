@@ -18,7 +18,7 @@
 | Job Position         | Company                            | Field                | Work Period                |
 | ---------------------| ---------------------------------- | ---------------------| -------------------------- |
 | <b>Dev Full Stack    | [Linx](https://www.linx.com.br/)   | Web Development      | 01.06.2021 — until now</b>|
-| Dev Full Stack       | [EmComp](https://emcomp.com.br/)   | Web Development      | 01.01.2018  = 01.01.2019   |
+| Dev Full Stack       | [EmComp](https://emcomp.com.br/)   | Web Development      | 01.01.2018 — 01.01.2019   |
 
 
 # Techs
