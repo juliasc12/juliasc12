@@ -10,8 +10,12 @@
 <i>"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."</i>
 </div>
 
+<br>
+
 # :books: Education
 - <b>Computer Science</b> at [IF Sudeste MG](https://www.ifsudestemg.edu.br/) <b>@</b> Instituto Federal do Sudeste de Minas Gerais (2017 - 2021)
+
+<br>
 
 # :briefcase: Work experience
 
@@ -20,10 +24,15 @@
 | <b>Dev Full Stack    | [Linx](https://www.linx.com.br/)   | Web Development      | 01.06.2021 — until now</b>|
 | Dev Full Stack       | [EmComp](https://emcomp.com.br/)   | Web Development      | 01.01.2018 — 01.01.2019   |
 
+<br>
+
 # :computer: Techs
+<img align="right" width="250" src="https://uploaddeimagens.com.br/images/004/167/390/full/e.png?1668718263" margin-top="10">
+
 - Knowledge in Java and C++
 - Knowledge in data science with Python, artificial intelligence and computer vision
-- Knowledge in non-relational database (MongoDB) and Experience in relational database (MySql, FaunaDB)
+- Knowledge in non-relational database (MongoDB) 
+- Experience in relational database (MySql, FaunaDB)
 - Knowledge in RESTful and GraphQL API
 - Experience in Javascript, React and Typescript
 - Experience in PHP, Node e Nextjs
@@ -31,6 +40,7 @@
 
 #
 <div align="center">
+ <br>
   
 :revolving_hearts: <b>Currently I'm focusing on studying React, React Native and Node.</b> :revolving_hearts:  
   
