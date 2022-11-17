@@ -10,19 +10,31 @@
 <i>"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."</i>
 </div>
 
-# Education
-- [Science Computer at IF Sudeste MG](https://www.ifsudestemg.edu.br/) <b>@</b> Instituto Federal do Sudeste de Minas Gerais (2017 - 2021)
+# :books: Education
+- <b>Computer Science</b> at [IF Sudeste MG](https://www.ifsudestemg.edu.br/) <b>@</b> Instituto Federal do Sudeste de Minas Gerais (2017 - 2021)
 
-# Work experience
+# :briefcase: Work experience
 
 | Job Position         | Company                            | Field                | Work Period                |
 | ---------------------| ---------------------------------- | ---------------------| -------------------------- |
 | <b>Dev Full Stack    | [Linx](https://www.linx.com.br/)   | Web Development      | 01.06.2021 — until now</b>|
 | Dev Full Stack       | [EmComp](https://emcomp.com.br/)   | Web Development      | 01.01.2018 — 01.01.2019   |
 
+# :computer: Techs
+- Knowledge in Java and C++
+- Knowledge in data science with Python, artificial intelligence and computer vision
+- Knowledge in non-relational database (MongoDB) and Experience in relational database (MySql, FaunaDB)
+- Knowledge in RESTful and GraphQL API
+- Experience in Javascript, PHP, React and Typescript
+- Experience in Angular and Laravel frameworks
 
-# Techs
-
-![ReadmeCard](https://github-readme-stats.vercel.app/api/top-langs/?username=juliasc12&layout=compact)
+#
+<div align="center">
+  
+:revolving_hearts: <b>Currently I'm focusing on studying React, React Native and Node.</b> :revolving_hearts:  
+  
+![ReadmeCard](https://github-readme-stats.vercel.app/api/top-langs/?username=juliasc12&layout=compact&theme=dark)
+  
+</div>
 
 
