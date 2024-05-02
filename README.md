@@ -29,13 +29,10 @@
 # :computer: Techs
 <img align="right" width="250" src="https://uploaddeimagens.com.br/images/004/167/390/full/e.png?1668718263" margin-top="10">
 
-- Knowledge in Java and C++
-- Knowledge in data science with Python, artificial intelligence and computer vision
-- Knowledge in non-relational database (MongoDB) 
-- Experience in relational database (MySql, FaunaDB)
+- Experience in relational database (MySql)
 - Knowledge in RESTful and GraphQL API
 - Experience in Javascript, React and Typescript
-- Experience in PHP, Node e Nextjs
+- Experience in PHP and Node 
 - Experience in Angular and Laravel frameworks
 
 #
